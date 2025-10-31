@@ -1,5 +1,8 @@
 #aca podria haber puesto tambien entradas DNS
 
-serv-uai-node-4
+[web_servers]
+serv-uai-node-4  
+[db_servers]
 serv-uai-node-13
+[file_servers]
 serv-uai-node-15
